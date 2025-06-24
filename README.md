@@ -27,11 +27,14 @@ This repository includes a **PDF version** of the dataset for **visual inspectio
 
 The original Excel file (editable format) has been withheld to avoid unauthorized reuse or modification.
 
-📬 **For academic or research access to the raw data**, contact:
+**For academic or research access to the raw data**, contact:
 
 **Dr. Vinayak B Kamble**
+
 **Associate Professor**
+
 **Indian Institute of Science Education and Research (IISER), Thiruvananthapuram**
+
 **kbvinayak@iisertvm.ac.in**
 
 ---
