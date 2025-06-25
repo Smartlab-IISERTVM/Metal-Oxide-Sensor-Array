@@ -32,7 +32,7 @@ To request access, please contact:
 **Dr. Vinayak B Kamble**  
 Associate Professor  
 Indian Institute of Science Education and Research (IISER), Thiruvananthapuram  
-📧 kbvinayak@iisertvm.ac.in
+kbvinayak@iisertvm.ac.in
 
 Please include:
 - Your name and institutional affiliation
